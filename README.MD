@@ -15,4 +15,7 @@ REQUISITOS: apenas ter o python instalado em seu ambiente independente da versao
 
 Se desejar fazer apenas um scan em sua porta especifica  basta remover a linha 31 e retirar a indentaçao/espaços 
 em branco que ficar nas demais linhas.
+
+obrigado.
+
     
